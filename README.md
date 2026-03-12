@@ -87,10 +87,13 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ![Photoshop](https://img.shields.io/badge/Photoshop-880E4F?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lys-777&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lys-777&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lys-777&theme=rose_pine&show_icons=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Lys-777&theme=rose_pine)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&layout=compact&theme=rose_pine)r=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
