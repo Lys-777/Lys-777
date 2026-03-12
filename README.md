@@ -61,6 +61,16 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 
 ---
 
+### 🎨 Design & Creative
+<p>
+
+![Blender](https://img.shields.io/badge/Blender-283593?style=for-the-badge&logo=blender&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-283593?style=for-the-badge&logo=sketch&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-283593?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-283593?style=for-the-badge&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-283593?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+</p>
 ### ☁️ Cloud
 <p>
 
@@ -83,16 +93,7 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 
 ---
 
-### 🎨 Design & Creative
-<p>
 
-![Blender](https://img.shields.io/badge/Blender-283593?style=for-the-badge&logo=blender&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-283593?style=for-the-badge&logo=sketch&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-283593?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-283593?style=for-the-badge&logo=adobe&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-283593?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-</p>
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lys-777&theme=tokyonight&show_icons=true&count_private=true)
