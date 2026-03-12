@@ -67,9 +67,9 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 
 
 
-![Lys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lys-777&theme=rose_pine&show_icons=true&include_all_commits=true)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Lys-777&theme=rose_pine)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&theme=rose_pine&layout=compact&include_all_commits=true)
+![Lys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lys-777&theme=one_dark_pro&show_icons=true&include_all_commits=true)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Lys-777&theme=one_dark_pro)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&theme=one_dark_pro&layout=compact&include_all_commits=true)
 
 
 ### ✍️ Dev Quote of the Day
