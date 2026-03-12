@@ -13,7 +13,7 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
-<p>
+<p align="left">
 ![C](https://img.shields.io/badge/C-F2E6FF?style=for-the-badge&logo=c&logoColor=#0033FF)
 ![C++](https://img.shields.io/badge/C++-F2E6FF?style=for-the-badge&logo=c%2B%2B&logoColor=#0033FF)
 ![PHP](https://img.shields.io/badge/PHP-FFCFF2?style=for-the-badge&logo=php&logoColor=#0033FF)
@@ -26,7 +26,7 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ---
 
 ### 🌐 Frontend
-<p>
+<p align="left">
 ![HTML5](https://img.shields.io/badge/HTML5-0033FF?style=for-the-badge&logo=html5&logoColor=#F2E6FF)
 ![React](https://img.shields.io/badge/React-0033FF?style=for-the-badge&logo=react&logoColor=#F2E6FF)
 ![React Native](https://img.shields.io/badge/React_Native-0033FF?style=for-the-badge&logo=react&logoColor=#F2E6FF)
@@ -35,7 +35,7 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ---
 
 ### ⚙️ Backend
-<p>
+<p align="left">
 ![NodeJS](https://img.shields.io/badge/NodeJS-977DFF?style=for-the-badge&logo=node.js&logoColor=#F2E6FF)
 ![Laravel](https://img.shields.io/badge/Laravel-977DFF?style=for-the-badge&logo=laravel&logoColor=#F2E6FF)
 ![WordPress](https://img.shields.io/badge/WordPress-977DFF?style=for-the-badge&logo=wordpress&logoColor=#F2E6FF)
@@ -44,7 +44,7 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ---
 
 ### 🗄 Databases
-<p>
+<p align="left">
 ![MySQL](https://img.shields.io/badge/MySQL-0033FF?style=for-the-badge&logo=mysql&logoColor=#F2E6FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0033FF?style=for-the-badge&logo=mongodb&logoColor=#F2E6FF)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0033FF?style=for-the-badge&logo=mariadb&logoColor=#F2E6FF)
@@ -53,7 +53,7 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ---
 
 ### ☁️ Cloud
-<p>
+<p align="left">
 ![AWS](https://img.shields.io/badge/AWS-977DFF?style=for-the-badge&logo=amazon-aws&logoColor=#F2E6FF)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-977DFF?style=for-the-badge&logo=google-cloud&logoColor=#F2E6FF)
 ![Azure](https://img.shields.io/badge/Azure-977DFF?style=for-the-badge&logo=microsoftazure&logoColor=#F2E6FF)
@@ -62,7 +62,7 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ---
 
 ### 🖥 Servers & Tools
-<p>
+<p align="left">
 ![Apache](https://img.shields.io/badge/Apache-0033FF?style=for-the-badge&logo=apache&logoColor=#F2E6FF)
 ![Nginx](https://img.shields.io/badge/Nginx-0033FF?style=for-the-badge&logo=nginx&logoColor=#F2E6FF)
 ![Nodemon](https://img.shields.io/badge/Nodemon-0033FF?style=for-the-badge&logo=nodemon&logoColor=#F2E6FF)
@@ -71,7 +71,7 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ---
 
 ### 🎨 Design & Creative
-<p>
+<p align="left">
 ![Blender](https://img.shields.io/badge/Blender-4F7FFF?style=for-the-badge&logo=blender&logoColor=#F2E6FF)
 ![Sketch](https://img.shields.io/badge/Sketch-4F7FFF?style=for-the-badge&logo=sketch&logoColor=#F2E6FF)
 ![Canva](https://img.shields.io/badge/Canva-4F7FFF?style=for-the-badge&logo=canva&logoColor=#F2E6FF)
@@ -88,6 +88,8 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 <img height="170" src="https://nirzak-streak-stats.herokuapp.com/?user=Lys-777&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&layout=compact&theme=tokyonight"/>
 </p>
+
+---
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote">
