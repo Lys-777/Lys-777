@@ -1,3 +1,13 @@
+## 💫 About Me
+
+<p align="justify">
+I am a backend and full-stack web developer with expertise in C, PHP, and JavaScript, specializing in building robust, scalable applications and intuitive UI/UX designs. I have strong experience in database design and management using SQL, NoSQL, and MongoDB, and I am continuously expanding my skills in Java and C++ for advanced system programming. Currently, I am learning Python to explore AI and machine learning applications, while also leveraging 3D design tools like Blender and Unity to create interactive and visually engaging experiences. I am passionate about integrating efficient backend systems, clean front-end interfaces, and innovative design to deliver high-quality software solutions.
+</p>
+
+<p align="justify">
+<strong>Fun fact:</strong> I enjoy experimenting with Blender while listening to coding playlists.
+</p>
+
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
@@ -78,5 +88,17 @@
 ![Canva](https://img.shields.io/badge/Canva-4F46E5?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-4F46E5?style=for-the-badge&logo=adobe&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-4F46E5?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lys-777&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Lys-777&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&layout=compact&theme=tokyonight"/>
 
 </p>
