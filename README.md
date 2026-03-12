@@ -82,12 +82,12 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 
 <p align="left">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lys-777&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://nirzak-streak-stats.herokuapp.com/?user=Lys-777&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.vercel.app/?user=Lys-777&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote">
 </p>
