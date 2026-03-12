@@ -13,13 +13,13 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 
 ### 🧠 Programming Languages
 <p align="left">
-<img src="https://img.shields.io/badge/C-F2E6FF?style=for-the-badge&logo=c&logoColor=#0033FF">
-<img src="https://img.shields.io/badge/C++-F2E6FF?style=for-the-badge&logo=c%2B%2B&logoColor=#0033FF">
-<img src="https://img.shields.io/badge/PHP-F2E6FF?style=for-the-badge&logo=php&logoColor=#0033FF">
-<img src="https://img.shields.io/badge/JavaScript-F2E6FF?style=for-the-badge&logo=javascript&logoColor=#0033FF">
-<img src="https://img.shields.io/badge/TypeScript-977DFF?style=for-the-badge&logo=typescript&logoColor=#0033FF">
-<img src="https://img.shields.io/badge/Python-977DFF?style=for-the-badge&logo=python&logoColor=#0033FF">
-<img src="https://img.shields.io/badge/Swift-0033FF?style=for-the-badge&logo=swift&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/C-977DFF?style=for-the-badge&logo=c&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/C++-977DFF?style=for-the-badge&logo=c%2B%2B&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/PHP-977DFF?style=for-the-badge&logo=php&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/JavaScript-977DFF?style=for-the-badge&logo=javascript&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/TypeScript-977DFF?style=for-the-badge&logo=typescript&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Python-977DFF?style=for-the-badge&logo=python&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Swift-977DFF?style=for-the-badge&logo=swift&logoColor=#F2E6FF">
 </p>
 
 ---
