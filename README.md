@@ -71,6 +71,6 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote">
-</p>
+
+### ✍️ Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
