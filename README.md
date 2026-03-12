@@ -8,83 +8,83 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
-<p align="left">
+<p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-</p>
-
----
-
-### 🌐 Frontend Development
-<p align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-1A237E?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1A237E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1A237E?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A237E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A237E?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1A237E?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-1A237E?style=for-the-badge&logo=swift&logoColor=white)
 
 </p>
 
 ---
 
-### ⚙️ Backend & Frameworks
-<p align="left">
+### 🌐 Frontend
+<p>
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
-
-</p>
-
----
-
-### 🗄️ Databases
-<p align="left">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4A148C?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-4A148C?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-4A148C?style=for-the-badge&logo=react&logoColor=white)
 
 </p>
 
 ---
 
-### ☁️ Cloud & Hosting
-<p align="left">
+### ⚙️ Backend
+<p>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</p>
-
----
-
-### 🖥️ Servers & Tools
-<p align="left">
-
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD)
+![NodeJS](https://img.shields.io/badge/NodeJS-0D47A1?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0D47A1?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-0D47A1?style=for-the-badge&logo=wordpress&logoColor=white)
 
 </p>
 
 ---
 
-### 🎨 Design & Creative Tools
-<p align="left">
+### 🗄 Databases
+<p>
 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-004D40?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-004D40?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-004D40?style=for-the-badge&logo=mariadb&logoColor=white)
+
+</p>
+
+---
+
+### ☁️ Cloud
+<p>
+
+![AWS](https://img.shields.io/badge/AWS-BF360C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-BF360C?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-BF360C?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</p>
+
+---
+
+### 🖥 Servers & Tools
+<p>
+
+![Apache](https://img.shields.io/badge/Apache-263238?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-263238?style=for-the-badge&logo=nginx&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-263238?style=for-the-badge&logo=nodemon&logoColor=white)
+
+</p>
+
+---
+
+### 🎨 Design & Creative
+<p>
+
+![Blender](https://img.shields.io/badge/Blender-880E4F?style=for-the-badge&logo=blender&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-880E4F?style=for-the-badge&logo=sketch&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-880E4F?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-880E4F?style=for-the-badge&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-880E4F?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </p>
 # 📊 GitHub Stats:
