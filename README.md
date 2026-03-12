@@ -31,9 +31,9 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ### 🌐 Frontend
 <p>
 
-![HTML5](https://img.shields.io/badge/HTML5-4A148C?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-4A148C?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-4A148C?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-3949AB?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-3949AB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-3949AB?style=for-the-badge&logo=react&logoColor=white)
 
 </p>
 
@@ -53,9 +53,9 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ### 🗄 Databases
 <p>
 
-![MySQL](https://img.shields.io/badge/MySQL-004D40?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-004D40?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-004D40?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1565C0?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1565C0?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-1565C0?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </p>
 
@@ -64,9 +64,9 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ### ☁️ Cloud
 <p>
 
-![AWS](https://img.shields.io/badge/AWS-BF360C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-BF360C?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-BF360C?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1976D2?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1976D2?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-1976D2?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </p>
 
@@ -86,11 +86,11 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 ### 🎨 Design & Creative
 <p>
 
-![Blender](https://img.shields.io/badge/Blender-880E4F?style=for-the-badge&logo=blender&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-880E4F?style=for-the-badge&logo=sketch&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-880E4F?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-880E4F?style=for-the-badge&logo=adobe&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-880E4F?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-283593?style=for-the-badge&logo=blender&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-283593?style=for-the-badge&logo=sketch&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-283593?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-283593?style=for-the-badge&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-283593?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </p>
 ## 📊 GitHub Stats
