@@ -1,6 +1,12 @@
-# 💫 About Me:
-I am a backend and full-stack web developer with expertise in C, PHP, and JavaScript, specializing in building robust, scalable applications and intuitive UI/UX designs. I have strong experience in database design and management using SQL, NoSQL, and MongoDB, and I am continuously expanding my skills in Java and C++ for advanced system programming. Currently, I am learning Python to explore AI and machine learning applications, while also leveraging 3D design tools like Blender and Unity to create interactive and visually engaging experiences. I am passionate about integrating efficient backend systems, clean front-end interfaces, and innovative design to deliver high-quality software solutions. Fun fact I enjoy experimenting with Blender while listening to coding playlists
+## 💫 About Me
 
+<p align="justify">
+I am a backend and full-stack web developer with expertise in C, PHP, and JavaScript, specializing in building robust, scalable applications and intuitive UI/UX designs. I have strong experience in database design and management using SQL, NoSQL, and MongoDB, and I am continuously expanding my skills in Java and C++ for advanced system programming. Currently, I am learning Python to explore AI and machine learning applications, while also leveraging 3D design tools like Blender and Unity to create interactive and visually engaging experiences. I am passionate about integrating efficient backend systems, clean front-end interfaces, and innovative design to deliver high-quality software solutions.
+</p>
+
+<p align="justify">
+<strong>Fun fact:</strong> I enjoy experimenting with Blender while listening to coding playlists.
+</p>
 
 ## 🌐 Socials:
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/simbilys) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simbiii_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simbi-lys-anais-christa-21867a3a2/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/simbilys) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simbilys@outlook.com) [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/lys-777) 
@@ -93,7 +99,7 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Lys-777&theme=rose_pine)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&layout=compact&theme=rose_pine)r=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&layout=compact&theme=rose_pine)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
