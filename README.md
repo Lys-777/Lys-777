@@ -9,8 +9,6 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 </p>
 
 ---
-## 💻 Tech Stack
-
 ### 🧠 Programming Languages
 <p align="left">
 <img src="https://img.shields.io/badge/C-977DFF?style=for-the-badge&logo=c&logoColor=#F2E6FF">
@@ -22,8 +20,6 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 <img src="https://img.shields.io/badge/Swift-977DFF?style=for-the-badge&logo=swift&logoColor=#F2E6FF">
 </p>
 
----
-
 ### 🌐 Frontend
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-0033FF?style=for-the-badge&logo=html5&logoColor=#F2E6FF">
@@ -31,63 +27,51 @@ I am a backend and full-stack web developer with expertise in C, PHP, and JavaSc
 <img src="https://img.shields.io/badge/React_Native-0033FF?style=for-the-badge&logo=react&logoColor=#F2E6FF">
 </p>
 
----
-
 ### ⚙️ Backend
 <p align="left">
-<img src="https://img.shields.io/badge/NodeJS-977DFF?style=for-the-badge&logo=node.js&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/Laravel-977DFF?style=for-the-badge&logo=laravel&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/WordPress-977DFF?style=for-the-badge&logo=wordpress&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/NodeJS-4F7FFF?style=for-the-badge&logo=node.js&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Laravel-4F7FFF?style=for-the-badge&logo=laravel&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/WordPress-4F7FFF?style=for-the-badge&logo=wordpress&logoColor=#F2E6FF">
 </p>
-
----
 
 ### 🗄 Databases
 <p align="left">
-<img src="https://img.shields.io/badge/MySQL-0033FF?style=for-the-badge&logo=mysql&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/MongoDB-0033FF?style=for-the-badge&logo=mongodb&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/MariaDB-0033FF?style=for-the-badge&logo=mariadb&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/MySQL-0020AA?style=for-the-badge&logo=mysql&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/MongoDB-0020AA?style=for-the-badge&logo=mongodb&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/MariaDB-0020AA?style=for-the-badge&logo=mariadb&logoColor=#F2E6FF">
 </p>
-
----
 
 ### ☁️ Cloud
 <p align="left">
-<img src="https://img.shields.io/badge/AWS-977DFF?style=for-the-badge&logo=amazon-aws&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/Google_Cloud-977DFF?style=for-the-badge&logo=google-cloud&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/Azure-977DFF?style=for-the-badge&logo=microsoftazure&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/AWS-5A85FF?style=for-the-badge&logo=amazon-aws&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Google_Cloud-5A85FF?style=for-the-badge&logo=google-cloud&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Azure-5A85FF?style=for-the-badge&logo=microsoftazure&logoColor=#F2E6FF">
 </p>
-
----
 
 ### 🖥 Servers & Tools
 <p align="left">
-<img src="https://img.shields.io/badge/Apache-0033FF?style=for-the-badge&logo=apache&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/Nginx-0033FF?style=for-the-badge&logo=nginx&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/Nodemon-0033FF?style=for-the-badge&logo=nodemon&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Apache-0020AA?style=for-the-badge&logo=apache&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Nginx-0020AA?style=for-the-badge&logo=nginx&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Nodemon-0020AA?style=for-the-badge&logo=nodemon&logoColor=#F2E6FF">
 </p>
-
----
 
 ### 🎨 Design & Creative
 <p align="left">
-<img src="https://img.shields.io/badge/Blender-4F7FFF?style=for-the-badge&logo=blender&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/Sketch-4F7FFF?style=for-the-badge&logo=sketch&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/Canva-4F7FFF?style=for-the-badge&logo=canva&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/Adobe-4F7FFF?style=for-the-badge&logo=adobe&logoColor=#F2E6FF">
-<img src="https://img.shields.io/badge/Photoshop-4F7FFF?style=for-the-badge&logo=adobephotoshop&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Blender-5A85FF?style=for-the-badge&logo=blender&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Sketch-5A85FF?style=for-the-badge&logo=sketch&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Canva-5A85FF?style=for-the-badge&logo=canva&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Adobe-5A85FF?style=for-the-badge&logo=adobe&logoColor=#F2E6FF">
+<img src="https://img.shields.io/badge/Photoshop-5A85FF?style=for-the-badge&logo=adobephotoshop&logoColor=#F2E6FF">
 </p>
 
 ## 📊 GitHub Analytics
 
-<p align="left">
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lys-777&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.vercel.app/?user=Lys-777&theme=tokyonight"/>
+<img height="170" src="https://nirzak-streak-stats.herokuapp.com/?user=Lys-777&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lys-777&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote">
 </p>
